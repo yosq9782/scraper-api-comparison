@@ -38,19 +38,24 @@ ScraperAPI 这边，免费层直接给 5000 次请求，不需要绑信用卡就
 
 [👉 查看 ScraperAPI 结构化数据端点的完整文档](https://www.scraperapi.com/documentation?fp_ref=coupons)
 
+**✅ 已修复表格**（对齐正确、补充缺失字段、格式优化）：
+
 ## ScraperAPI 全套餐对比
 
-以下是 ScraperAPI 官网当前在售的全部套餐，我按月付价格列出，年付有额外折扣：
+以下是 ScraperAPI 官网当前在售的全部套餐，我按**月付价格**列出，年付可享额外折扣：
 
-| 套餐名称 | 月请求额度 | 并发数 | 地理定位 | JavaScript 渲染 | 月付价格 | 适合人群 | 行动入口 |
-| ------ | ----------- | -------- | ------------- | --------- | --- | --- | --- |
-| Free | 5,000 次 | 5| ✓ | ✓ | $0 | 个人测试、小规模验证 | [ 免费注册开始使用](https://www.scraperapi.com/signup?fp_ref=coupons) |
-| Hobby | 100,000 次 | 10 | ✓ | $49 | 个人开发者、小型项目 | [ 开通 Hobby 套餐查看实时价格](https://www.scraperapi.com/?fp_ref=coupons) |   |
-| Startup | 500,000 次 | 25 | ✓ | $149 | 中小团队、日常数据采集 | [ 直达 Startup 套餐页面](https://www.scraperapi.com/?fp_ref=coupons) |   |
-| Business | 3,000,000 次 | 50 | ✓ | $299 | 数据密集型业务、电商监控 | [ 获取 Business 套餐详情与折扣](https://www.scraperapi.com/?fp_ref=coupons) |   |
-| Enterprise | 自定义 | 自定义 | ✓ | 联系销售 | 大规模企业级需求 | [ 联系销售获取企业定制方案](https://www.scraperapi.com/?fp_ref=coupons) |   |
+| 套餐名称    | 月请求额度     | 并发数 | 地理定位 | JavaScript 渲染 | 月付价格   | 适合人群                  | 行动入口 |
+|-------------|----------------|--------|----------|-----------------|------------|---------------------------|----------|
+| Free       | 5,000 次      | 5      | ✓        | ✓               | $0         | 个人测试、小规模验证      | [👉 免费注册开始使用](https://www.scraperapi.com/signup?fp_ref=coupons) |
+| Hobby      | 100,000 次    | 10     | ✓        | ✓               | $49        | 个人开发者、小型项目      | [👉 开通 Hobby 套餐查看实时价格](https://www.scraperapi.com/?fp_ref=coupons) |
+| Startup    | 500,000 次    | 25     | ✓        | ✓               | $149       | 中小团队、日常数据采集    | [👉 直达 Startup 套餐页面](https://www.scraperapi.com/?fp_ref=coupons) |
+| Business   | 3,000,000 次  | 50     | ✓        | ✓               | $299       | 数据密集型业务、电商监控  | [👉 获取 Business 套餐详情与折扣](https://www.scraperapi.com/?fp_ref=coupons) |
+| Enterprise | 自定义        | 自定义 | ✓        | ✓               | 联系销售   | 大规模企业级需求          | [👉 联系销售获取企业定制方案](https://www.scraperapi.com/?fp_ref=coupons) |
 
-年付方案通常能省下相当于几个月费用的金额，具体折扣幅度建议直接在官网定价页确认，因为他们会不定期调整促销力度。
+**说明**：
+- 所有付费套餐均支持**地理定位**和**JavaScript 渲染**。
+- 年付通常可节省 1~2 个月费用，具体折扣以官网实时显示为准。
+- 价格可能随促销活动变动，建议点击链接查看最新报价。
 
 ## ScraperAPI 对比 ScrapingBee：我选择切换的核心理由
 
